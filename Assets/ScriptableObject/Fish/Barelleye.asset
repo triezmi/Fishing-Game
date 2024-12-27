@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3ae87e7d8ee6634197a930dc3b8d1ba, type: 3}
+  m_Name: Barelleye
+  m_EditorClassIdentifier: 
+  fishName: Barelleye
+  grade: 0
+  fishSprite: {fileID: -7500485539085250391, guid: 0356288bb9f3c494d9f156417b65e0b7, type: 3}
+  fishPrefab: {fileID: 3179867558181529424, guid: 06dd00487dcf0a64699f01e2e309eb58, type: 3}
+  power: 10
+  catchPower: -1
+  breakPoint: 8
+  maxHP: 20
+  reward: 50

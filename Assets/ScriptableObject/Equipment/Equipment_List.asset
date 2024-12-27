@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f5ae7fae94076f4da59df471fe090eb, type: 3}
+  m_Name: Equipment_List
+  m_EditorClassIdentifier: 
+  fishingRods:
+  - {fileID: 11400000, guid: ca287b1b780db75468f61eb1da8f69c6, type: 2}
+  hooks:
+  - {fileID: 11400000, guid: e3f61175759be3e41b9f90b9936f22fd, type: 2}
+  baits:
+  - {fileID: 11400000, guid: 670b5db24f1b94941acfc71d54bf4596, type: 2}
+  strings:
+  - {fileID: 11400000, guid: 71771b2b43cf813458048c5f594ed01f, type: 2}
+  iceBoxes:
+  - {fileID: 11400000, guid: d1335a601aa459344bb20a45a0673d31, type: 2}

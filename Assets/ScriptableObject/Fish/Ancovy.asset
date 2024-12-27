@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3ae87e7d8ee6634197a930dc3b8d1ba, type: 3}
+  m_Name: Ancovy
+  m_EditorClassIdentifier: 
+  fishName: Ancovy
+  grade: 0
+  fishSprite: {fileID: 632307148, guid: fa1859378c65e184aa8c3f05578c608a, type: 3}
+  fishPrefab: {fileID: 6941968492258780257, guid: 8ee125b4efcdc094e9c7c1cce7ee5d2f, type: 3}
+  power: 10
+  catchPower: -1
+  breakPoint: 8
+  maxHP: 20
+  reward: 50
